@@ -1,164 +1,188 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:12060A,35:4C0519,70:BE123C,100:FB7185&text=ALISHA%20PANDIT&fontColor=FFF1F2&fontSize=55&fontAlignY=45&desc=ENGINEERING%20THE%20FUTURE&descAlignY=65&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;section=header&amp;color=0:FDF2F8,45:FBCFE8,80:DDD6FE,100:C4B5FD&amp;text=Alisha%20Pandit&amp;fontColor=6B456C&amp;fontSize=52&amp;fontAlignY=38&amp;desc=aspiring%20cloud%20engineer&amp;descSize=19&amp;descAlignY=58&amp;animation=fadeIn" alt="Alisha Pandit — Aspiring Cloud Engineer" />
 
-<br/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Quicksand&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=B87596&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=A+little+curiosity%2C+a+lot+of+possibility.;Learning+the+cloud.+Creating+with+care.;Python+%C2%B7+Web+Development+%C2%B7+AI" alt="Learning the cloud. Creating with care." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=FB7185&center=true&vCenter=true&width=650&lines=Information+Science+%26+Engineering;Cloud+Computing+Enthusiast;C%2B%2B+%7C+DSA+%7C+Web+Development;Learning.+Building.+Improving." alt="Typing SVG" />
+<br />
 
-<br/>
+**a curious mind, thoughtful code, and room to grow**
 
-<a href="https://github.com/alishapandit228">
-<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-19060C?style=for-the-badge&logo=github&logoColor=FB7185" />
-</a>
-<a href="https://www.linkedin.com/in/alisha-pandit-379a7235a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-19060C?style=for-the-badge&logo=linkedin&logoColor=F43F5E" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=alishapandit228&style=for-the-badge&color=BE123C&label=PROFILE+VIEWS" alt="Profile Views" />
+<br />
+
+[GitHub](https://github.com/alishapandit228) &nbsp; ♡ &nbsp; [LinkedIn](https://www.linkedin.com/in/alisha-pandit-379a7235a/) &nbsp; ♡ &nbsp; [LeetCode](https://leetcode.com/u/alisha_08/)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=alishapandit228&amp;label=lovely%20visitors&amp;color=C994B6&amp;style=flat-square" alt="Profile views" />
 
 </div>
+
+<br />
+
+## 🌷 a little about me
+
+Hi, I'm **Alisha Pandit** — an **Information Science and Engineering** student at **Sai Vidya Institute of Technology, Bengaluru**.
+
+I'm working toward a career in **Cloud Engineering**, while exploring Python, full-stack development, and artificial intelligence. I enjoy turning ideas into practical projects and learning how each part of an application fits together.
+
+- ☁️ Learning cloud concepts, AWS, and Linux.
+- 🪴 Growing through hands-on software projects.
+- 🎀 **IEEE ITS Student Branch Chapter Vice Chair at SVIT**.
+- 🤍 Participating in technical events, hackathons, and collaborative student projects.
+
+> Learning gently. Building thoughtfully. Growing steadily.
+
+<br />
+
+## 🧺 my little toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Programming** | Python · C++ · JavaScript |
+| **Frontend** | HTML · CSS · React · Tailwind CSS · Vite |
+| **Backend** | FastAPI · SQLAlchemy |
+| **Databases** | SQL · SQLite |
+| **Project libraries** | scikit-learn |
+| **Development tools** | Git · GitHub · VS Code |
+
+**Cloud foundation:** Oracle Cloud Infrastructure 2025 Certified Foundations Associate.
+
+<sub>My public applications use SQLite locally. The Resume Analyser documents PostgreSQL as an alternative configuration.</sub>
+
+<br />
+
+## 🪻 projects in bloom
+
+### Resolve · AI Resume Analyser
+
+*A little clarity for the next career step.*
+
+A full-stack project that compares resumes with job descriptions and presents structured feedback.
+
+- Parses PDF and DOCX resumes.
+- Estimates compatibility through TF-IDF similarity and rule-based matching.
+- Provides ATS-style feedback, skill-gap analysis, and learning roadmaps.
+- Includes demo mode, analysis history, and an optional LLM assistant.
+
+**Made with:** Python · FastAPI · React · Vite · Tailwind CSS · SQLAlchemy · SQLite · scikit-learn
+
+**Status:** Development project with a documented local workflow and demo mode.
+
+[Explore Resolve ↗](https://github.com/alishapandit228/ai_resume_analyser)
 
 ---
 
-## `01 / WHO AM I`
+### Arogya Caller
 
-```text
-NAME       : Alisha Pandit
-EDUCATION  : Information Science & Engineering
-INSTITUTE  : Sai Vidya Institute of Technology
-INTERESTS  : Cloud Computing, Software Development, AI
-LANGUAGES  : C++, Python, JavaScript
-CURRENTLY  : Learning, experimenting & building projects
-```
+*Exploring thoughtful conversations with local AI.*
 
-- 🎓 Information Science & Engineering student at Sai Vidya Institute of Technology, Bengaluru.
-- ☁️ Exploring Cloud Computing and AWS.
-- 💻 Practicing Data Structures & Algorithms using C++.
-- 🌐 Interested in web technologies and AI-powered applications.
-- 👩‍💼 IEEE ITS Student Branch Chapter Vice Chair.
-- 🚀 Interested in hackathons, ideathons and technical activities.
+An ongoing information-collection prototype with role-based conversations and a browser voice workflow.
 
-## `02 / TECH ARSENAL`
+- Includes consent, clarification, field validation, and explicit confirmation.
+- Integrates local Ollama models and offline speech adapters.
+- Persists structured session data using SQLAlchemy and SQLite.
 
-<div align="center">
+**Made with:** Python · FastAPI · React · Vite · Ollama · SQLAlchemy · SQLite
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,git,github,vscode&theme=dark&perline=4" />
+**Status:** Cross-platform integration is in progress; real-device validation remains pending. Appointment requests are collected as records rather than confirmed bookings.
 
-</div>
+[Explore Arogya Caller ↗](https://github.com/alishapandit228/arogya-caller)
 
-## `03 / FEATURED PROJECT`
+<br />
 
-<table>
-<tr>
-<td width="100%">
+## ☁️ currently exploring
 
-<h3>❤️ AI Resume Analyser</h3>
+| Learning focus | What I'm working toward |
+| :--- | :--- |
+| **Cloud Computing** | Understanding infrastructure and deployment concepts |
+| **AWS** | Learning core services and cloud foundations |
+| **Linux** | Becoming more comfortable with the command line |
+| **C++ DSA** | Developing problem-solving patterns |
+| **Backend Development** | Building Python APIs and understanding database integration |
 
-A web application designed to analyze resumes and provide useful feedback to help users improve their resumes and job applications.
+<br />
 
-**Tech Stack**
+## 🎓 little milestones
 
-`Python` `FastAPI` `React/Vite` `SQLAlchemy` `Scikit-learn`
-
-**Key Focus Areas**
-
-- Resume analysis and feedback
-- Resume quality assessment
-- AI-assisted career preparation
-
-</td>
-</tr>
-</table>
-
-## `04 / CERTIFICATIONS & CREDENTIALS`
-
-| Certification | Organization |
-|---|---|
+| Credential | Organization |
+| :--- | :--- |
 | Postman API Fundamentals Student Expert | Postman |
 | Artificial Intelligence Fundamentals | IBM |
 | Generative AI Mastermind | Outskill |
 | Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle |
 | Introduction to Large Language Model | IBM |
 | Gemini Certified University Student | Google |
-| Kaggle Community Member | Kaggle |
 
-## `05 / LEADERSHIP & ACTIVITIES`
+**Community membership:** Kaggle Community Member.
 
-<div align="center">
+<br />
 
-<img src="https://img.shields.io/badge/IEEE-ITS%20Student%20Branch-4C0519?style=for-the-badge&labelColor=19060C&color=BE123C" />
+## 🤍 beyond the code
 
-<img src="https://img.shields.io/badge/ROLE-Vice%20Chair-4C0519?style=for-the-badge&labelColor=19060C&color=F43F5E" />
+**IEEE ITS Student Branch Chapter Vice Chair**  
+Sai Vidya Institute of Technology
 
-</div>
+Alongside development, I enjoy organizing and participating in technical events, collaborating on student projects, and taking part in hackathons and ideathons.
 
-- Student chapter leadership and collaboration.
-- College technical events and event hosting.
-- Participation in hackathons and ideathons.
-- Teamwork on student technology projects.
+These experiences help me practice communication, coordination, and teamwork while learning with others.
 
-## `06 / CURRENTLY LEARNING`
+<br />
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/C%2B%2B-DSA-9F1239?style=flat-square&labelColor=19060C" />
-<img src="https://img.shields.io/badge/Cloud-AWS-BE123C?style=flat-square&labelColor=19060C" />
-<img src="https://img.shields.io/badge/OS-Linux-F43F5E?style=flat-square&labelColor=19060C" />
-<img src="https://img.shields.io/badge/AI-Generative%20AI-FB7185?style=flat-square&labelColor=19060C" />
-
-</div>
-
-## `07 / GITHUB ANALYTICS`
+## 🌸 small steps on github
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alishapandit228&show_icons=true&hide_border=true&bg_color=12060A&title_color=FB7185&text_color=FFE4E6&icon_color=F43F5E" width="48%" />
+*Every contribution is a little part of the journey.*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishapandit228&layout=compact&hide_border=true&bg_color=12060A&title_color=FB7185&text_color=FFE4E6" width="42%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=alishapandit228&hide_border=true&background=12060A&ring=FB7185&fire=F43F5E&currStreakLabel=FB7185&sideLabels=FFE4E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FDA4AF" width="75%" />
-
-</div>
-
-## `08 / CONTRIBUTION LOG`
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/FB7185/alishapandit228" alt="GitHub Contribution Calendar" width="100%" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:4C0519,50:9F1239,100:BE123C&text=BUILD%20%3E%20LEARN%20%3E%20REPEAT&fontColor=FFF1F2&fontSize=20" width="100%" />
-
-<p><i>Every project is an experiment. Every commit is progress.</i></p>
-
-</div>
-
-## `09 / CONNECT WITH ME`
-
-<div align="center">
+<br />
 
 <a href="https://github.com/alishapandit228">
-<img src="https://img.shields.io/badge/GitHub-Follow-19060C?style=for-the-badge&logo=github&logoColor=FB7185" />
+<img width="100%" src="https://ghchart.rshah.org/BE185D/alishapandit228" alt="Alisha's GitHub contribution calendar in ruby pink" />
 </a>
 
-<a href="https://www.linkedin.com/in/alisha-pandit-379a7235a/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-19060C?style=for-the-badge&logo=linkedin&logoColor=F43F5E" />
-</a>
+<br /><br />
+
+[View my GitHub activity ↗](https://github.com/alishapandit228?tab=overview)
 
 </div>
+
+<br />
+
+
+## 💌 let's connect
+
+<div align="center">
+
+For conversations about **cloud learning**, **software projects**,  
+and **building something useful together**.
+
+<br />
+
+<a href="https://github.com/alishapandit228">
+<img src="https://img.shields.io/badge/GitHub-FBCFE8?style=for-the-badge&amp;logo=github&amp;logoColor=6B456C" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/alisha-pandit-379a7235a/">
+<img src="https://img.shields.io/badge/LinkedIn-DDD6FE?style=for-the-badge" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/alisha_08/">
+<img src="https://img.shields.io/badge/LeetCode-FCE7D6?style=for-the-badge&amp;logo=leetcode&amp;logoColor=6B456C" alt="LeetCode" />
+</a>
+
+<br /><br />
+
+[GitHub](https://github.com/alishapandit228) &nbsp; ♡ &nbsp; [LinkedIn](https://www.linkedin.com/in/alisha-pandit-379a7235a/) &nbsp; ♡ &nbsp; [LeetCode](https://leetcode.com/u/alisha_08/)
+
+<br />
 
 ---
 
-<div align="center">
+<br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:12060A,35:4C0519,70:BE123C,100:FB7185" />
+**a little more curious, a little more capable, every day.**
 
-### Thanks for visiting my profile! ❤️
+<sub>thank you for stopping by ♡</sub>
 
-<sub>Stay curious. Keep building. Make an impact.</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=130&amp;section=footer&amp;color=0:FDF2F8,45:FBCFE8,80:DDD6FE,100:C4B5FD" alt="Blush pink and lavender footer" />
 
 </div>
